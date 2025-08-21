@@ -12,8 +12,9 @@ The project is built with **HTML, CSS, and a little JavaScript** for layout and 
 
 ## 📸 Screenshot
 
-![Screenshot](./screenshot.png)  
-_(Replace with your own screenshot image)_
+![Screenshot](<img width="645" height="601" alt="image" src="https://github.com/user-attachments/assets/92aa16ca-d4bb-4243-9514-df36f1a2a5cb" />
+)  
+
 
 ## 🛠️ Technologies Used
 
@@ -28,3 +29,5 @@ _(Replace with your own screenshot image)_
    ```bash
    https://github.com/hunghocdev/travel-agency-template.git
    ```
+2. Open:
+   https://hunghocdev.github.io/travel-agency-template/
